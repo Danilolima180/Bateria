@@ -34,8 +34,9 @@ h1 {
     font-weight: bold;
 }
 .key.active {
-    border: 2px solid #FF0;
-    color: #FF0;
+    border: 2px solid #cf3;
+    color: #cf3;
+    border-radius: 10px;
 }
 
 .composer {
